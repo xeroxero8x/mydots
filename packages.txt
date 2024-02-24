@@ -1,0 +1,11 @@
+base-devel
+neovim
+neofetch
+rustup
+wget
+tldr
+tgpt-bin
+floorp-bin
+thorium-browser-bin
+stow
+end
