@@ -9,4 +9,7 @@ floorp-bin
 thorium-browser-bin
 stow
 github-cli
-end
+fzf
+zoxide
+bat
+EOF

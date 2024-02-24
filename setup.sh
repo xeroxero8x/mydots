@@ -24,7 +24,7 @@ fi
 # Read packages.txt line by line
 while IFS= read -r package; do
 	# Check if line is "end", then stop
-	if [ "$package" = "end" ]; then
+	if [ "$package" = "EOF" ]; then
 		echo "Reached end of packages list."
 		break
 	fi
@@ -43,3 +43,9 @@ git clone https://github.com/prasanthrangan/hyprdots.git --depth=1
 cd ~/Hyprdots/Scripts/
 
 ./install.sh
+
+sleep 5
+
+echo "Add Zoxide for ZSH"
+
+bat >>~/.zshrc
