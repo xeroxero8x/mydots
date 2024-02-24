@@ -12,4 +12,6 @@ github-cli
 fzf
 zoxide
 bat
+hugo
+warp-terminal
 EOF
