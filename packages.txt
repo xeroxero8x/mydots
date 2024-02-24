@@ -8,4 +8,5 @@ tgpt-bin
 floorp-bin
 thorium-browser-bin
 stow
+github-cli
 end
