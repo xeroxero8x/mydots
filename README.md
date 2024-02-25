@@ -16,7 +16,7 @@ $ sudo pacman -Sy git curl
 ```
 $ bash <(curl -L https://raw.githubusercontent.com/xeroxero8x/mydots/main/setup.sh)
 ```
-- Whent Ask for Zoxide Paste this
+- When Ask for Zoxide Paste this
 ```
 eval "$(zoxide init zsh)"
 ```
