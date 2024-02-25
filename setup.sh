@@ -49,3 +49,6 @@ sleep 5
 echo "Add Zoxide for ZSH"
 
 bat >>~/.zshrc
+
+#Symlinking All Config Files
+stow .
