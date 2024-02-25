@@ -14,4 +14,10 @@ zoxide
 bat
 hugo
 warp-terminal
+ttf-indic-otf
+ibus
+m17n-db
+ibus-m17n-db
+ibus-avro
+ibus-avro-git
 EOF
