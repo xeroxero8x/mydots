@@ -21,4 +21,5 @@ ibus-m17n-db
 ibus-avro
 ibus-avro-git
 lazygit
+armcord-git
 EOF
