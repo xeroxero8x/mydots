@@ -20,3 +20,7 @@ $ bash <(curl -L https://raw.githubusercontent.com/xeroxero8x/mydots/main/setup.
 ```
 eval "$(zoxide init zsh)"
 ```
+
+## Some Custom Keybindings
+- Tmux
+`prefix` = `Ctrl`+`Space`
