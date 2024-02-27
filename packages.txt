@@ -22,4 +22,5 @@ ibus-avro
 ibus-avro-git
 lazygit
 armcord-git
+qownnotes
 EOF
