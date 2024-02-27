@@ -23,4 +23,4 @@ eval "$(zoxide init zsh)"
 
 ## Some Custom Keybindings
 - Tmux
-`prefix` = `Ctrl`+`Space`
+  - `prefix` = `Ctrl`+`Space`
