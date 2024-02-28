@@ -34,6 +34,9 @@ while IFS= read -r package; do
 	paru -S --noconfirm "$package"
 done <"packages.txt"
 
+#Installing XDMAN BETA
+sudo pacman -U ./pkgs/xdman_gtk-8.0.29-1-x86_64.pkg.tar.zst
+
 #Moving to $Home Directory
 cd ~
 
