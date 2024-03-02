@@ -23,4 +23,5 @@ ibus-avro-git
 lazygit
 armcord-git
 qownnotes
+kdeconnect
 EOF
